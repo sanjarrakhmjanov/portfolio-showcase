@@ -3,7 +3,7 @@
 Modern full-stack portfolio website featuring a high-end animated frontend and a Django REST backend for contact handling with Telegram notifications and database storage.
 
 🚀 **Live Demo:**  
-https://sevensr-portfolio-front.onrender.com
+https://sanjar-raximjonov.vercel.app/
 
 ---
 
@@ -30,7 +30,7 @@ https://sevensr-portfolio-front.onrender.com
 - PostgreSQL
 
 **Infrastructure**
-- Render deployment
+- Render, Vercel deployment
 - Gunicorn
 - WhiteNoise
 
